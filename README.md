@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My im Carlos and I'm a Programer  from Peru</h2>
+<h2 align="left">Hi 👋! My im Carlos and I'm a Software Engineering from Peru</h2>
 
 
 ###
